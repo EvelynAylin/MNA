@@ -1,0 +1,5 @@
+﻿  OpenMP_Sol.cpp
+C:\Users\PROPIETARIO\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\MNA\Cómputo en la nube\Actividades\Actividad 1\OpenMP\OpenMP_Sol\OpenMP_Sol.cpp(24,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\PROPIETARIO\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\MNA\Cómputo en la nube\Actividades\Actividad 1\OpenMP\OpenMP_Sol\OpenMP_Sol.cpp(25,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PROPIETARIO\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\MNA\Cómputo en la nube\Actividades\Actividad 1\OpenMP\OpenMP_Sol\OpenMP_Sol.cpp(14,5): warning C4101: 'i': variable local sin referencia
+  OpenMP_Sol.vcxproj -> C:\Users\PROPIETARIO\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\MNA\Cómputo en la nube\Actividades\Actividad 1\OpenMP\OpenMP_Sol\x64\Debug\OpenMP_Sol.exe
